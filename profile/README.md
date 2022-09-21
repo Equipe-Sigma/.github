@@ -1,6 +1,7 @@
+
 # EQUIPE SIGMA
 
-Olá, nós somos a Equipe Sigma, somos estudantes do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), e atualmente estamos cursando o 6° período do curso técnico integrado em informática. Este repósitório servirá para um projeto desenvolvido para a disciplina de Práticas Profissionais III, que será supervisionado pelo professor [Roger Moura Sarmento](https://github.com/rogermsarmento).
+Olá, nós somos a Equipe Sigma, somos estudantes do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), e atualmente estamos cursando o 6° período do curso técnico integrado em informática. Este repósitório servirá para um projeto desenvolvido para a disciplina de Práticas Profissionais III, que será supervisionado pelo professor [Roger Moura Sarmento](https://github.com/rogermsarmento).</p>
 
 ## Membros
 
@@ -25,8 +26,7 @@ Facilitar a criação de um e-commerce.
 ### Motivação
 
 ### Como será feito?
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SigmaTeamPP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 

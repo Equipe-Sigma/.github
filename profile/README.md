@@ -28,6 +28,7 @@ Devido a nosso número limitado de integrantes, decidimos replicar algo já feit
 
 ### Como será feito?
 
-No momento, em nossa equipe, um dos membros não pode programar efetivamente, portanto teremos apenas dois programadores efetivos, o terceiro membro irá analisar nosso código e o tutorial para nos alertar de quaisquer erros que cometemos
+No momento, em nossa equipe, um dos membros não pode programar efetivamente, portanto teremos apenas dois programadores efetivos, o terceiro membro irá analisar nosso código e o tutorial para nos alertar de quaisquer erros que cometemos. Além disso ele nos acompanhará em todas as reuniões fazendo relatórios do que foi feito no dia e o que deu de errado.
+Nossas reuniões funcionarão da seguinte forma: o membro Rafael irá abrir o Visual Code e irá programar junto do membro Lucas por meio da extensão do VS Code chamada [Live Share](https://visualstudio.microsoft.com/pt-br/services/live-share/), nós iremos assistir ao tutorial e programar o código mostrado no vídeo. Após terminar a reunião iremos analizar o relatório do membro Elessandro, atualizar o Trello e o Github.
 
 

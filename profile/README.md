@@ -20,6 +20,10 @@ O projeto se trata de um jogo, contruído utilizando HTML, CSS e JavaScript, que
 
 ## Objetivos
 
-Poder aprender mais sobre HTML, CSS e JavaScript de uma maneira didática e divertida, construindo um jogo juntos.
+Com este projeto, temos como objetivo replicar um jogo de um tutorial do YouTube com sucesso e de tabela, aprender mais sobre HTML, CSS e JavaScript
+
+### Motivação
+
+Devido a nosso número limitado de integrantes, decidimos replicar algo já feito na internet
 
 

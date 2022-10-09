@@ -18,12 +18,16 @@ Olá, nós somos a Sigma Reborn Awakening, somos estudantes do Instituto Federal
 #### Do que se trata e Por quê?
 O projeto se trata de um jogo, contruído utilizando HTML, CSS e JavaScript, que é sobre um chef de uma pizzaria que deve batalhar para se tornar o maior chef. O jogo possui sistemas semelhantes a RPGs como o Pokemon, como batalhas de turno. O projeto será feito utilizando o tutorial [Pizza Legends - JavaScript RPG](https://www.youtube.com/playlist?list=PLcjhmZ8oLT0r9dSiIK6RB_PuBWlG1KSq_) do canal [Drew Conley](https://www.youtube.com/c/DrewConley).
 
-## Objetivos
+### Objetivos
 
-Com este projeto, temos como objetivo replicar um jogo de um tutorial do YouTube com sucesso e de tabela, aprender mais sobre HTML, CSS e JavaScript
+Com este projeto, temos como objetivo replicar um jogo de um tutorial do YouTube com sucesso e de tabela, aprender mais sobre HTML, CSS e JavaScript.
 
 ### Motivação
 
-Devido a nosso número limitado de integrantes, decidimos replicar algo já feito na internet
+Devido a nosso número limitado de integrantes, decidimos replicar algo já feito na internet. O tutorial que escolhemos possui uma boa didática e é interessante para pessoas que não sabem muito da linguagem.
+
+### Como será feito?
+
+No momento, em nossa equipe, um dos membros não pode programar efetivamente, portanto teremos apenas dois programadores efetivos, o terceiro membro irá analisar nosso código e o tutorial para nos alertar de quaisquer erros que cometemos
 
 

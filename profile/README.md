@@ -7,10 +7,6 @@ Olá, nós somos a Sigma Reborn Awakening, somos estudantes do Instituto Federal
 
 <img src="https://user-images.githubusercontent.com/112625422/194765004-5f5b1dd0-cc9e-445b-8696-24a453868351.png" width="600" height="auto" style="image-rendering: pixelated;">
 
-## Por que "Sigma Reborn Awakening"?
-
-Bem, nossa equipe inicialmente se chamava apenas Equipe Sigma, mas como todos os projetos, houve problemas, como definição de ideias, entre outros. Posteriormente viramos Sigma Reborn(no sentido de Renascimento), e depois de tudo que se passou até o começo do projeto definitivamente, agora somos <b>Sigma Reborn Awakening</b>, no sentido da tradução do inglês mesmo de <b>Despertar da Sigma Reborn</b>. Awakening, Despertar e começar definitivamente, semelhante à uma fênix.
-
 ## Membros
 
 - Rafael Gomes do Nascimento;
